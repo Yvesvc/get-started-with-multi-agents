@@ -4,7 +4,7 @@
 This tutorial shows you step-by-step how to implement a multi-agent application.
 
 You'll learn:
-- How to define a graph - the core building block of multi-agent systems. (1_simple_graph.py)
+- How to define a graph - the core building block of multi-agent systems (1_simple_graph.py)
 - How to display a graph (2_display_graph.py)
 - How to create an agent with tools - this is an optional step, you can skip this if you'd like (3_agent_with_tools.py)
 - How to create an agent in a more convenient way (4_react_agent.py)
