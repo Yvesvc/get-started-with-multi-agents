@@ -1,0 +1,8 @@
+langgraph==0.2.69
+langchain_openai
+ipython
+psycopg[binary,pool]
+psycopg-pool
+langgraph-checkpoint-postgres
+langfuse
+langchain
