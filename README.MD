@@ -1,5 +1,5 @@
 
-Create your own multi-agent system in minutes using LangGraph!
+**Create your own multi-agent system in minutes using LangGraph!**
 
 This tutorial shows you step-by-step how to implement an application in which mulitple llm agents interact with eachother.
 
