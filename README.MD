@@ -15,6 +15,7 @@ You'll learn:
 This setup assumes you are using Windows, VSCode and Python >=3.11.
 
 - Clone this repository
+- Install the dependencies (pip install -r requirements.txt)
 - Copy the contents of .env.example to a new .env file and complete the variable values.
 - In the Run and Debug section of Visual Studio Code, choose the Run configuration
 - Navigate to the 1_simple_graph.py file (or any other of the Python files)
